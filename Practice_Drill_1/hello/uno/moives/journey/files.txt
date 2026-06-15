@@ -1,0 +1,8 @@
+total 48
+-rw-r--r--  1 apple  staff   152B  4 Jun 11:45 abc.txt
+-rw-r--r--  1 apple  staff    20B  4 Jun 11:51 e.txt
+-rw-r--r--  1 apple  staff     0B  4 Jun 14:58 files.txt
+-rw-r--r--@ 1 apple  staff   111B  4 Jun 12:32 newPune.txt
+-rw-r--r--  1 apple  staff    70B  4 Jun 14:55 number.txt
+-rw-r--r--  1 apple  staff   207B  4 Jun 10:08 pune.txt
+-rw-r--r--  1 apple  staff   162B  4 Jun 14:48 test.txt
